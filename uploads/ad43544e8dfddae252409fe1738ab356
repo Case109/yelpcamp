@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System Software Facts</title>
+</head>
+<body>
+    <h1>System Software Facts</h1>
+    
+    <div>
+        <h2>Utlity Software</h2>
+        <img src="Utilitysoft/Water Pipe.jpg" alt="water pipe" width="400" height="500">
+        <img src="Utilitysoft/wrench.jpg" alt="wrench" width="400" height="500">
+        <img src="Utilitysoft/truck in reverse.jpg" alt="truck backing up" width="400" height="500">
+        <img src="Utilitysoft/Compresson.png" alt="truck backing up" width="400" height="500">
+        <img src="Utilitysoft/WindowCleaner.jpg" alt="window cleaner" width="400" height="500">
+        <img src="Utilitysoft/Anti Virus.jpg" alt="vaccine" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>Device Drivers</h2>
+        <img src="https://w7.pngwing.com/pngs/623/898/png-transparent-car-driving-truck-driver-graphy-driving-glass-driving-truck-thumbnail.png" alt="water pipe" width="400" height="500">
+        <img src="https://www.freeiconspng.com/uploads/full-size---jpg-preview-old-telephone-33.jpg" alt="wrench" width="400" height="500">
+        <img src="https://happilyevertravels.com/wp-content/uploads/2020/06/Copy-of-Happily-Ever-Travels-Blog-Covers-4.jpg" alt="truck backing up" width="400" height="500">
+        <img src="https://assets.stickpng.com/images/5cb781d6a7c7755bf004c13f.png" alt="truck backing up" width="400" height="500">
+        <img src="https://t3.ftcdn.net/jpg/03/44/80/38/360_F_344803873_GlxRDQpY7S5IYaiAtSS7pFZWuyfDDkyJ.jpg" alt="window cleaner" width="400" height="500">
+        <img src="https://www.gotodobbs.com/wp-content/uploads/2017/04/manual-transmission-gear-shift.jpg.webp" alt="vaccine" width="400" height="500">
+        <img src="https://cdn2.vectorstock.com/i/1000x1000/43/61/smiling-manager-vector-3164361.jpg" alt="vaccine" width="400" height="500">
+        <img src="https://scdn1.plesk.com/wp-content/uploads/2021/04/05104659/SM_BLOG_Locating-Linux-Files.png" alt="vaccine" width="400" height="500">
+        <img src="https://www.gotodobbs.com/wp-content/uploads/2017/04/manual-transmission-gear-shift.jpg.webp" alt="vaccine" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>Firmware</h2>
+        <img src="https://www.monarch-innovation.com/wp-content/webp-express/webp-images/uploads/2022/11/Embedded-Firmware-Development.jpg.webp" alt="water pipe" width="400" height="500">
+        <img src="https://knilt.arcc.albany.edu/images/7/7e/Reading.jpg" alt="wrench" width="400" height="500">
+        <img src="https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg" alt="truck backing up" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>Common Window Utlities</h2>
+        <img src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-gear-512.png" alt="water pipe" width="400" height="500">
+        <img src="https://media.istockphoto.com/id/172657594/photo/flame-paint-job-on-hot-rod.jpg?s=612x612&w=0&k=20&c=kj196mt9gCWKvx6L4oU4YrirFXuY7rSJhdAZpOZp_KU=" alt="wrench" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>File Explorer</h2>
+        <img src="https://www.pngfind.com/pngs/m/223-2238573_dora-png-dora-the-explorer-jpg-transparent-png.png" alt="water pipe" width="400" height="500">
+        <img src="https://media.istockphoto.com/id/185010043/photo/3d-inage-of-a-gray-file-cabinet.jpg?s=612x612&w=0&k=20&c=RBBm3EJgp9x2Oe5CP8gsdIk4QyZXc1e-UgKgymH5-sY=" alt="wrench" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>Task Manager</h2>
+        <img src="https://st.depositphotos.com/1005979/2522/i/950/depositphotos_25224179-stock-photo-to-do-list-tasks-clipboard.jpg" alt="water pipe" width="400" height="500">
+        <img src="https://st.depositphotos.com/1002927/1695/i/450/depositphotos_16952581-stock-illustration-gears-process.jpg" alt="wrench" width="400" height="500">
+    </div>
+
+    <div>
+        <h2>Device Manager</h2>
+        <img src="https://img.lovepik.com/element/45003/3438.png_860.png" alt="water pipe" width="400" height="500">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Microsoft-Xbox-One-controller.jpg" alt="wrench" width="400" height="500">
+    </div>
+
+
+
+ 
+</body>
+</html>
